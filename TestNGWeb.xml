@@ -4,7 +4,7 @@
     <test name="Web Tests">
         <parameter name="PlatformName" value="web" />
         <classes>
-            <!--class name="sanity.SwagLabsWebLogin" /-->
+            <class name="sanity.SwagLabsWebLogin" />
             <class name="sanity.SwagLabsWebProducts" />
         </classes>
     </test>
