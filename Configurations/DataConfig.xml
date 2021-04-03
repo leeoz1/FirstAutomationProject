@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Environment>
+    <!-- Timeout -->
+    <Timeout>5</Timeout>
+
+    <!--Web-->
+    <BrowserName>chrome</BrowserName>
+    <url>https://www.saucedemo.com</url>
+    <ImageRepo>/Users/liozelinger/Documents/Final project/ImageRepository/</ImageRepo>
+
+    <!--Data Driven Testing-->
+    <DDTFile>/Users/liozelinger/Documents/Final project/DDTFiles/users.csv</DDTFile>
+
+    <!--Mobile-->
+    <udid>9885b634444c563455</udid>
+    <AppPackage>com.swaglabsmobileapp</AppPackage>
+    <AppActivity>.SplashActivity</AppActivity>
+    <AppiumServer>http://localhost:4723/wd/hub</AppiumServer>
+
+    <!--API-->
+    <!--To initiate the server, we need to run student.jar:
+    java -jar students.jar -(-)server.port=9000
+    please note: *REMOVE PARENTHESIS '()' from command line*-->
+    <url_api>http://localhost:9000/</url_api>
+
+    <!--Database-->
+    <DBURL>jdbc:mysql://remotemysql.com:3306/L2XAbSMM1S</DBURL>
+    <DBUser>L2XAbSMM1S</DBUser>
+    <DBPassword>Q74AcyixdV</DBPassword>
+
+    <!--Electron-->
+    <ElectronDriverPath>/Users/liozelinger/Documents/Final project/Drivers/electrondriver</ElectronDriverPath>
+    <ElectronAppPath>/Applications/Todolist.app/Contents/MacOS/Todolist</ElectronAppPath>
+
+</Environment>

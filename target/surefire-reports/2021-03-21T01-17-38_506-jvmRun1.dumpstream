@@ -1,0 +1,297 @@
+# Created at 2021-03-21T01:17:47.742
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2021-03-21T01:17:50.462
+Unexpected IOException with stream: file is now created
+
+
+# Created at 2021-03-21T01:17:51.624
+Unexpected IOException with stream: -------Starting Test------- :test01_verifyHeader-----------
+
+
+# Created at 2021-03-21T01:17:51.628
+Unexpected IOException: 5,1,sanity.SwagLabsWeb,test01_verifyHeader(sanity.SwagLabsWeb),sanity.SwagLabsWeb,null,null
+
+
+# Created at 2021-03-21T01:17:53.543
+Unexpected IOException with stream: -------Test:------- :test01_verifyHeaderPassed-----------
+
+
+# Created at 2021-03-21T01:17:53.686
+Unexpected IOException with stream: file stop recording
+
+
+# Created at 2021-03-21T01:17:53.686
+Unexpected IOException with stream: File deleted successfully
+
+
+# Created at 2021-03-21T01:17:53.687
+Unexpected IOException: 6,1,sanity.SwagLabsWeb,test01_verifyHeader(sanity.SwagLabsWeb),null,null,null
+
+
+# Created at 2021-03-21T01:17:54.539
+Unexpected IOException with stream: file is now created
+
+
+# Created at 2021-03-21T01:17:54.544
+Unexpected IOException with stream: -------Starting Test------- :test02_verifyNumberOfItems-----------
+
+
+# Created at 2021-03-21T01:17:54.544
+Unexpected IOException: 5,1,sanity.SwagLabsWeb,test02_verifyNumberOfItems(sanity.SwagLabsWeb),sanity.SwagLabsWeb,null,null
+
+
+# Created at 2021-03-21T01:17:54.618
+Unexpected IOException with stream: -------Test:------- :test02_verifyNumberOfItemsPassed-----------
+
+
+# Created at 2021-03-21T01:17:54.915
+Unexpected IOException with stream: file stop recording
+
+
+# Created at 2021-03-21T01:17:54.916
+Unexpected IOException with stream: File deleted successfully
+
+
+# Created at 2021-03-21T01:17:54.916
+Unexpected IOException: 6,1,sanity.SwagLabsWeb,test02_verifyNumberOfItems(sanity.SwagLabsWeb),null,null,null
+
+
+# Created at 2021-03-21T01:17:55.109
+Unexpected IOException with stream: file is now created
+
+
+# Created at 2021-03-21T01:17:55.114
+Unexpected IOException with stream: -------Starting Test------- :test03_verifyAddedItem-----------
+
+
+# Created at 2021-03-21T01:17:55.114
+Unexpected IOException: 5,1,sanity.SwagLabsWeb,test03_verifyAddedItem(sanity.SwagLabsWeb),sanity.SwagLabsWeb,null,null
+
+
+# Created at 2021-03-21T01:17:55.352
+Unexpected IOException with stream: -------Test:------- :test03_verifyAddedItemPassed-----------
+
+
+# Created at 2021-03-21T01:17:55.503
+Unexpected IOException with stream: file stop recording
+
+
+# Created at 2021-03-21T01:17:55.504
+Unexpected IOException with stream: File deleted successfully
+
+
+# Created at 2021-03-21T01:17:55.504
+Unexpected IOException: 6,1,sanity.SwagLabsWeb,test03_verifyAddedItem(sanity.SwagLabsWeb),null,null,null
+
+
+# Created at 2021-03-21T01:17:55.702
+Unexpected IOException with stream: file is now created
+
+
+# Created at 2021-03-21T01:17:55.712
+Unexpected IOException with stream: -------Starting Test------- :test04_VerifyChangeSort-----------
+
+
+# Created at 2021-03-21T01:17:55.713
+Unexpected IOException: 5,1,sanity.SwagLabsWeb,test04_VerifyChangeSort(sanity.SwagLabsWeb),sanity.SwagLabsWeb,null,null
+
+
+# Created at 2021-03-21T01:17:56.032
+Unexpected IOException with stream: -------Test:------- :test04_VerifyChangeSortPassed-----------
+
+
+# Created at 2021-03-21T01:17:56.124
+Unexpected IOException with stream: file stop recording
+
+
+# Created at 2021-03-21T01:17:56.125
+Unexpected IOException with stream: File deleted successfully
+
+
+# Created at 2021-03-21T01:17:56.126
+Unexpected IOException: 6,1,sanity.SwagLabsWeb,test04_VerifyChangeSort(sanity.SwagLabsWeb),null,null,null
+
+
+# Created at 2021-03-21T01:17:56.291
+Unexpected IOException with stream: file is now created
+
+
+# Created at 2021-03-21T01:17:56.295
+Unexpected IOException with stream: -------Starting Test------- :test05_VerifyNumberOfMenuItems-----------
+
+
+# Created at 2021-03-21T01:17:56.295
+Unexpected IOException: 5,1,sanity.SwagLabsWeb,test05_VerifyNumberOfMenuItems(sanity.SwagLabsWeb),sanity.SwagLabsWeb,null,null
+
+
+# Created at 2021-03-21T01:17:56.741
+Unexpected IOException with stream: -------Test:------- :test05_VerifyNumberOfMenuItemsPassed-----------
+
+
+# Created at 2021-03-21T01:17:56.889
+Unexpected IOException with stream: file stop recording
+
+
+# Created at 2021-03-21T01:17:56.889
+Unexpected IOException with stream: File deleted successfully
+
+
+# Created at 2021-03-21T01:17:56.890
+Unexpected IOException: 6,1,sanity.SwagLabsWeb,test05_VerifyNumberOfMenuItems(sanity.SwagLabsWeb),null,null,null
+
+
+# Created at 2021-03-21T01:17:57.100
+Unexpected IOException with stream: file is now created
+
+
+# Created at 2021-03-21T01:17:57.110
+Unexpected IOException with stream: -------Starting Test------- :test06_VerifyPricesAndCompleteOrder-----------
+
+
+# Created at 2021-03-21T01:17:57.110
+Unexpected IOException: 5,1,sanity.SwagLabsWeb,test06_VerifyPricesAndCompleteOrder(sanity.SwagLabsWeb),sanity.SwagLabsWeb,null,null
+
+
+# Created at 2021-03-21T01:17:59.105
+Unexpected IOException with stream: -------Test:------- :test06_VerifyPricesAndCompleteOrderPassed-----------
+
+
+# Created at 2021-03-21T01:17:59.196
+Unexpected IOException with stream: file stop recording
+
+
+# Created at 2021-03-21T01:17:59.196
+Unexpected IOException with stream: File deleted successfully
+
+
+# Created at 2021-03-21T01:17:59.197
+Unexpected IOException: 6,1,sanity.SwagLabsWeb,test06_VerifyPricesAndCompleteOrder(sanity.SwagLabsWeb),null,null,null
+
+
+# Created at 2021-03-21T01:17:59.432
+Unexpected IOException with stream: file is now created
+
+
+# Created at 2021-03-21T01:17:59.435
+Unexpected IOException with stream: -------Starting Test------- :test08_VerifyMultipleLogins-----------
+
+
+# Created at 2021-03-21T01:17:59.436
+Unexpected IOException: 5,1,sanity.SwagLabsWeb,test08_VerifyMultipleLogins(sanity.SwagLabsWeb),sanity.SwagLabsWeb,null,null
+
+
+# Created at 2021-03-21T01:18:00.486
+Unexpected IOException with stream: -------Test:------- :test08_VerifyMultipleLoginsPassed-----------
+
+
+# Created at 2021-03-21T01:18:00.619
+Unexpected IOException with stream: file stop recording
+
+
+# Created at 2021-03-21T01:18:00.620
+Unexpected IOException with stream: File deleted successfully
+
+
+# Created at 2021-03-21T01:18:00.620
+Unexpected IOException: 6,1,sanity.SwagLabsWeb,test08_VerifyMultipleLogins(sanity.SwagLabsWeb),null,null,null
+
+
+# Created at 2021-03-21T01:18:00.814
+Unexpected IOException with stream: file is now created
+
+
+# Created at 2021-03-21T01:18:00.822
+Unexpected IOException with stream: -------Starting Test------- :test08_VerifyMultipleLogins-----------
+
+
+# Created at 2021-03-21T01:18:00.823
+Unexpected IOException: 5,1,sanity.SwagLabsWeb,test08_VerifyMultipleLogins(sanity.SwagLabsWeb),sanity.SwagLabsWeb,null,null
+
+
+# Created at 2021-03-21T01:18:01.648
+Unexpected IOException with stream: -------Test:------- :test08_VerifyMultipleLoginsPassed-----------
+
+
+# Created at 2021-03-21T01:18:01.964
+Unexpected IOException with stream: file stop recording
+
+
+# Created at 2021-03-21T01:18:01.965
+Unexpected IOException with stream: File deleted successfully
+
+
+# Created at 2021-03-21T01:18:01.965
+Unexpected IOException: 6,1,sanity.SwagLabsWeb,test08_VerifyMultipleLogins(sanity.SwagLabsWeb),null,null,null
+
+
+# Created at 2021-03-21T01:18:02.210
+Unexpected IOException with stream: file is now created
+
+
+# Created at 2021-03-21T01:18:02.217
+Unexpected IOException with stream: -------Starting Test------- :test08_VerifyMultipleLogins-----------
+
+
+# Created at 2021-03-21T01:18:02.218
+Unexpected IOException: 5,1,sanity.SwagLabsWeb,test08_VerifyMultipleLogins(sanity.SwagLabsWeb),sanity.SwagLabsWeb,null,null
+
+
+# Created at 2021-03-21T01:18:08.488
+Unexpected IOException with stream: -------Test:------- :test08_VerifyMultipleLoginsPassed-----------
+
+
+# Created at 2021-03-21T01:18:08.602
+Unexpected IOException with stream: file stop recording
+
+
+# Created at 2021-03-21T01:18:08.602
+Unexpected IOException with stream: File deleted successfully
+
+
+# Created at 2021-03-21T01:18:08.603
+Unexpected IOException: 6,1,sanity.SwagLabsWeb,test08_VerifyMultipleLogins(sanity.SwagLabsWeb),null,null,null
+
+
+# Created at 2021-03-21T01:18:08.783
+Unexpected IOException with stream: file is now created
+
+
+# Created at 2021-03-21T01:18:08.786
+Unexpected IOException with stream: -------Starting Test------- :test08_VerifyMultipleLogins-----------
+
+
+# Created at 2021-03-21T01:18:08.786
+Unexpected IOException: 5,1,sanity.SwagLabsWeb,test08_VerifyMultipleLogins(sanity.SwagLabsWeb),sanity.SwagLabsWeb,null,null
+
+
+# Created at 2021-03-21T01:18:09.337
+Unexpected IOException with stream: -------Test:------- :test08_VerifyMultipleLoginsPassed-----------
+
+
+# Created at 2021-03-21T01:18:09.460
+Unexpected IOException with stream: file stop recording
+
+
+# Created at 2021-03-21T01:18:09.460
+Unexpected IOException with stream: File deleted successfully
+
+
+# Created at 2021-03-21T01:18:09.460
+Unexpected IOException: 6,1,sanity.SwagLabsWeb,test08_VerifyMultipleLogins(sanity.SwagLabsWeb),null,null,null
+
+
+# Created at 2021-03-21T01:18:09.740
+Unexpected IOException with stream: ----------------------Ending exceution----------------------
+
+
+# Created at 2021-03-21T01:18:09.855
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

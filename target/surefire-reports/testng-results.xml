@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="5" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-03T22:21:51 IDT" name="Web Suite" finished-at="2021-04-03T22:22:18 IDT" duration-ms="26697">
+    <groups>
+    </groups>
+    <test started-at="2021-04-03T22:21:51 IDT" name="Web Tests" finished-at="2021-04-03T22:22:18 IDT" duration-ms="26697">
+      <class name="sanity.SwagLabsWebProducts">
+        <test-method is-config="true" signature="startSession(java.lang.String)[pri:0, instance:sanity.SwagLabsWebProducts@5486887b]" started-at="2021-04-03T22:21:51 IDT" name="startSession" finished-at="2021-04-03T22:21:57 IDT" duration-ms="5518" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[web]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startSession -->
+        <test-method is-config="true" signature="login()[pri:0, instance:sanity.SwagLabsWebProducts@5486887b]" started-at="2021-04-03T22:21:57 IDT" name="login" description="Login" finished-at="2021-04-03T22:21:57 IDT" duration-ms="474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:sanity.SwagLabsWebProducts@5486887b]" started-at="2021-04-03T22:21:57 IDT" name="beforeMethod" finished-at="2021-04-03T22:21:57 IDT" duration-ms="92" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void sanity.SwagLabsWebProducts.test04_verifyNumberOfItems()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test04_verifyNumberOfItems()[pri:0, instance:sanity.SwagLabsWebProducts@5486887b]" started-at="2021-04-03T22:21:57 IDT" name="test04_verifyNumberOfItems" description="test 04 - Verify Number Of Items in Main page" finished-at="2021-04-03T22:21:58 IDT" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test04_verifyNumberOfItems -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:sanity.SwagLabsWebProducts@5486887b]" started-at="2021-04-03T22:21:58 IDT" name="AfterMethod" finished-at="2021-04-03T22:21:58 IDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:sanity.SwagLabsWebProducts@5486887b]" started-at="2021-04-03T22:21:58 IDT" name="beforeMethod" finished-at="2021-04-03T22:21:58 IDT" duration-ms="27" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void sanity.SwagLabsWebProducts.test05_verifyAddedItem()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test05_verifyAddedItem()[pri:0, instance:sanity.SwagLabsWebProducts@5486887b]" started-at="2021-04-03T22:21:58 IDT" name="test05_verifyAddedItem" description="test 05 - Verify Added item" finished-at="2021-04-03T22:21:58 IDT" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test05_verifyAddedItem -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:sanity.SwagLabsWebProducts@5486887b]" started-at="2021-04-03T22:21:58 IDT" name="AfterMethod" finished-at="2021-04-03T22:21:58 IDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:sanity.SwagLabsWebProducts@5486887b]" started-at="2021-04-03T22:21:58 IDT" name="beforeMethod" finished-at="2021-04-03T22:21:58 IDT" duration-ms="23" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void sanity.SwagLabsWebProducts.test06_VerifyChangeSort()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test06_VerifyChangeSort()[pri:0, instance:sanity.SwagLabsWebProducts@5486887b]" started-at="2021-04-03T22:21:58 IDT" name="test06_VerifyChangeSort" description="test 06 - Verify sorted items" finished-at="2021-04-03T22:21:58 IDT" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test06_VerifyChangeSort -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:sanity.SwagLabsWebProducts@5486887b]" started-at="2021-04-03T22:21:58 IDT" name="AfterMethod" finished-at="2021-04-03T22:21:58 IDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:sanity.SwagLabsWebProducts@5486887b]" started-at="2021-04-03T22:21:58 IDT" name="beforeMethod" finished-at="2021-04-03T22:21:58 IDT" duration-ms="45" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void sanity.SwagLabsWebProducts.test06_VerifyPricesAndCompleteOrder()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test06_VerifyPricesAndCompleteOrder()[pri:0, instance:sanity.SwagLabsWebProducts@5486887b]" started-at="2021-04-03T22:21:58 IDT" name="test06_VerifyPricesAndCompleteOrder" description="test 06 - Verify Prices" finished-at="2021-04-03T22:22:00 IDT" duration-ms="1986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test06_VerifyPricesAndCompleteOrder -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:sanity.SwagLabsWebProducts@5486887b]" started-at="2021-04-03T22:22:00 IDT" name="AfterMethod" finished-at="2021-04-03T22:22:00 IDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:sanity.SwagLabsWebProducts@5486887b]" started-at="2021-04-03T22:22:00 IDT" name="beforeMethod" finished-at="2021-04-03T22:22:00 IDT" duration-ms="110" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void sanity.SwagLabsWebProducts.test07_VerifyNumberOfMenuItems()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test07_VerifyNumberOfMenuItems()[pri:0, instance:sanity.SwagLabsWebProducts@5486887b]" started-at="2021-04-03T22:22:00 IDT" name="test07_VerifyNumberOfMenuItems" description="test 07 - Verify Number Of Menu Items" finished-at="2021-04-03T22:22:01 IDT" duration-ms="774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test07_VerifyNumberOfMenuItems -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:sanity.SwagLabsWebProducts@5486887b]" started-at="2021-04-03T22:22:01 IDT" name="AfterMethod" finished-at="2021-04-03T22:22:01 IDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:sanity.SwagLabsWebProducts@5486887b]" started-at="2021-04-03T22:22:01 IDT" name="beforeMethod" finished-at="2021-04-03T22:22:01 IDT" duration-ms="203" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void sanity.SwagLabsWebProducts.test07_VerifyWebLogo() throws org.sikuli.script.FindFailed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test07_VerifyWebLogo()[pri:0, instance:sanity.SwagLabsWebProducts@5486887b]" started-at="2021-04-03T22:22:01 IDT" name="test07_VerifyWebLogo" description="test 07 - Verify Logo" finished-at="2021-04-03T22:22:18 IDT" duration-ms="16325" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Error comparing image file: FindFailed: /Users/liozelinger/Documents/Final project/ImageRepository/SwagLabsLogo.png: (210x44) in R[0,0 2048x1152]@S(0)
+  Line 2287, in file Region.java
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Error comparing image file: FindFailed: /Users/liozelinger/Documents/Final project/ImageRepository/SwagLabsLogo.png: (210x44) in R[0,0 2048x1152]@S(0)
+  Line 2287, in file Region.java
+
+at org.testng.Assert.fail(Assert.java:97)
+at extensions.Verifications.visualElement(Verifications.java:66)
+at sanity.SwagLabsWebProducts.test07_VerifyWebLogo(SwagLabsWebProducts.java:69)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:584)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:770)
+at org.testng.TestRunner.run(TestRunner.java:591)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
+at org.testng.SuiteRunner.run(SuiteRunner.java:304)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
+at org.testng.TestNG.runSuites(TestNG.java:1032)
+at org.testng.TestNG.run(TestNG.java:1000)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test07_VerifyWebLogo -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:sanity.SwagLabsWebProducts@5486887b]" started-at="2021-04-03T22:22:18 IDT" name="AfterMethod" finished-at="2021-04-03T22:22:18 IDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="closeSession()[pri:0, instance:sanity.SwagLabsWebProducts@5486887b]" started-at="2021-04-03T22:22:18 IDT" name="closeSession" finished-at="2021-04-03T22:22:18 IDT" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSession -->
+      </class> <!-- sanity.SwagLabsWebProducts -->
+    </test> <!-- Web Tests -->
+  </suite> <!-- Web Suite -->
+</testng-results>

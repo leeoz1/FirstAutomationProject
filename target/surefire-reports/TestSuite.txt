@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 27.858 s <<< FAILURE! - in TestSuite
+test07_VerifyWebLogo(sanity.SwagLabsWebProducts)  Time elapsed: 16.362 s  <<< FAILURE!
+java.lang.AssertionError: 
+Error comparing image file: FindFailed: /Users/liozelinger/Documents/Final project/ImageRepository/SwagLabsLogo.png: (210x44) in R[0,0 2048x1152]@S(0)
+  Line 2287, in file Region.java
+
+	at sanity.SwagLabsWebProducts.test07_VerifyWebLogo(SwagLabsWebProducts.java:69)
+

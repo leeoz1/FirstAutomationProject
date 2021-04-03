@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Web Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Web Tests(failed)" verbose="0">
+    <parameter name="PlatformName" value="web"/>
+    <classes>
+      <class name="sanity.SwagLabsWebProducts">
+        <methods>
+          <include name="AfterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="startSession"/>
+          <include name="test07_VerifyWebLogo"/>
+          <include name="login"/>
+          <include name="closeSession"/>
+        </methods>
+      </class> <!-- sanity.SwagLabsWebProducts -->
+    </classes>
+  </test> <!-- Web Tests(failed) -->
+</suite> <!-- Failed suite [Web Suite] -->
