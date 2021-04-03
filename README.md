@@ -58,7 +58,7 @@ Running Students.jar server:
 `cd [file path] -> java -jar students.jar --server.port=9000`
 #
 #### Example of test failure report:
-In this test the expected value is different from actual value:
+In this test the expected price was different from the actual price:
 
 ![](https://i.ibb.co/x532QcY/Screen-Shot-2021-04-04-at-1-22-39.png)
 
