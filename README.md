@@ -1,4 +1,6 @@
 # Full Stack Automation Final Project
+ [**Watch project's video!**](https://drive.google.com/file/d/12X1-qoadA_q0aZJtCAGvYaa_l1exOl4M/view?usp=sharing)
+
 ### This project created to demonstrate knowledge and skills in Automation Testing.
 
 
